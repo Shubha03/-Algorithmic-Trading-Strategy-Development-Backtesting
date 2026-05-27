@@ -43,19 +43,15 @@ trading-strategy/
 
 ## 1. Clone Repository
 
-```bash
 https://github.com/Shubha03/-Algorithmic-Trading-Strategy-Development-Backtesting.git
 
 cd trading-strategy 
----
+
 
 ## 3. Install Dependencies
 
-```bash
 pip install -r requirements.txt
-```
 
----
 
 # Run the Project
 
